@@ -1,0 +1,17 @@
+.personstyle img{
+    width: 200px;height: 200px;
+    display: block;
+}
+img{
+    width: 200px;height: 200px;
+}
+.mainpage h1 {
+    margin: 0;padding: 3px 0;
+}
+.mainpage{
+    width: 90%; height: 100vh; margin: auto;
+    /* text-align: center; */
+}
+.personstyle{
+    padding: 10px;
+}
